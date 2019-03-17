@@ -1,3 +1,3 @@
 # baidu
-ok
+ok ok shell2
 ok2
